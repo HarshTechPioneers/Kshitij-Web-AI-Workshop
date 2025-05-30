@@ -9,4 +9,6 @@ It includes:
 
 This repository reflects my learning journey and hands-on experience at the intersection of web development and AI.
 
+<hr>
+
 👨‍💻 Author: Harsh Raj
