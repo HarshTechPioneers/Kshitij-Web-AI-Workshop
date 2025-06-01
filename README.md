@@ -9,6 +9,12 @@ It includes:
 
 This repository reflects my learning journey and hands-on experience at the intersection of web development and AI.
 
+## 🚀 Live Demo
+
+Check out the live version of the project here:  
+👉 [Live Demo](https://harshtechpioneers.github.io/Kshitij-Web-AI-Workshop/)
+
+
 <hr>
 
 👨‍💻 Author: Harsh Raj
