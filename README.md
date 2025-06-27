@@ -17,4 +17,4 @@ Check out the live version of the project here:
 
 <hr>
 
-👨‍💻 Author: Harsh Raj
+👨‍💻 Created by **Harsh Raj** | @HarshTechPioneers
